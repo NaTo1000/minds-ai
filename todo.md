@@ -83,4 +83,19 @@
 - [x] Test chat functionality (anonymous and authenticated)
 - [x] Test on mobile devices
 - [x] Test accessibility features
-- [ ] Create checkpoint for deployment
+- [x] Create checkpoint for deployment
+
+## Deployment
+
+### Manus Platform Deployment
+- [ ] User clicks Publish button in Management UI
+- [ ] Verify Manus deployment is live
+- [ ] Configure custom domain infinite2025.com in Manus Settings
+
+### Cloudflare Pages Deployment
+- [ ] Check available Cloudflare MCP tools
+- [ ] Create Cloudflare Pages project
+- [ ] Deploy website to Cloudflare Pages
+- [ ] Configure infinite2025.com domain in Cloudflare
+- [ ] Set up DNS records for custom domain
+- [ ] Verify Cloudflare deployment is live
